@@ -28,17 +28,3 @@ a.hitpoints()
 print(a)
 print(len(a))
 
-
-
-
-
-
-
-
-
-
-# "Ei""Raiden Shogun""Secret Art: Musou Shinsetsu""15460""You will be inlaid upon this statue."
-# 
-# 
-# 
-# 
