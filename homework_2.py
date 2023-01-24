@@ -70,7 +70,7 @@ class Villain(AnemoHeroes):
         pass
     
     def crit_DMG(self):
-        crit = self.damage ** 2
+        crit = self.damage ** self.damage
         print("Crit Damage:", crit)
         
 d = Villain
