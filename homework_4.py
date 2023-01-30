@@ -22,7 +22,7 @@ class Main_inheritance(Inheritance_2, Inheritance_3, Inheritance_4):
         print(f"Имя: {self.name}\n"
               f"Возраст: {self.age}")
 
-a = Main_inheritance("Asyl", 22)
+a = Main_inheritance("Asyl", 16)
 a.show1()
 a.show2()
 a.show3()
